@@ -384,6 +384,7 @@ textarea {
     src: local('Phenomena Black'), local('Phenomena-Black'),
          url('https://fonts.cdnfonts.com/css/phenomena') format('otf');
 }
+@import url('https://fonts.cdnfonts.com/css/phenomena');
 
 html{
     box-sizing: border-box;
