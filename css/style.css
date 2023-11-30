@@ -366,7 +366,7 @@ textarea {
     font-style: normal;
     font-weight: 700;
     src: local('Phenomena Bold'), local('Phenomena-Bold'),
-         url('./fonts/Phenomena-Bold.otf') format('otf');
+         url('fonts/Phenomena-Bold.otf') format('otf');
 }
 /* phenomena-extrabold */
 @font-face {
@@ -374,7 +374,7 @@ textarea {
     font-style: normal;
     font-weight: 800;
     src: local('Phenomena ExtraBold'), local('Phenomena-ExtraBold'),
-         url('./fonts/Phenomena-ExtraBold.otf') format('otf');
+         url('fonts/Phenomena-ExtraBold.otf') format('otf');
 }
 /* phenomena-black */
 @font-face {
@@ -382,7 +382,7 @@ textarea {
     font-style: normal;
     font-weight: 900;
     src: local('Phenomena Black'), local('Phenomena-Black'),
-         url('./fonts/Phenomena-Black.otf') format('otf');
+         url('fonts/Phenomena-Black.otf') format('otf');
 }
 
 html{
